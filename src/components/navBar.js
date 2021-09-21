@@ -43,9 +43,9 @@ function NavBar(){
         {/* nav bar */}
         <div className = "navbar">
             <div className = "nav-items">
-                <a href="#" className="brand">Start BootStrap</a>
-                <a href="#">Home</a>
-                <a href="#">About</a>
+                <a href="index.html" className="brand">Start BootStrap</a>
+                <a href="index.html">Home</a>
+                <a href="index.html">About</a>
                 <button onClick={shopby} className="shopby">Shop<i className="fas fa-sort-down aa fa-1x"></i></button>
             </div>
             {/* cart */}
